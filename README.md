@@ -1,4 +1,4 @@
-# ⌨️ OP-Keyboard-Spammer
+# ⌨️ OP Keyboard Spammer
 A reference to [OP Auto Clicker](https://www.opautoclicker.com/) (I love it)
 
 <img width="362" height="385" alt="image" src="https://github.com/user-attachments/assets/03a727e5-8adf-4734-8622-2f126705b919" />

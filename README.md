@@ -15,6 +15,3 @@ Finally a auto keyboard clicker!
 - GUI is user-friendly
 - low hardware resource usage ( ram price;< )
 - can run in any OS (im not sure if it can)
-
-[googlec742b4d536bc8006 (1).html](https://github.com/user-attachments/files/34608052/googlec742b4d536bc8006.1.html)
-google-site-verification: googlec742b4d536bc8006.html

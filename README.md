@@ -1,6 +1,5 @@
 # ⌨️ OP Keyboard Spammer
 Finally a auto keyboard clicker!
-This is a reference to [OP Auto Clicker](https://www.opautoclicker.com/) (I love it)
 
 <img width="412" height="385" alt="image" src="https://github.com/user-attachments/assets/8f0eaf56-53d5-428c-a1e8-f4377e18df8d" />
 

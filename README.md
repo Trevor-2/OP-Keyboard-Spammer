@@ -22,5 +22,4 @@ Unlike bloated commercial macro suites that lock basic hotkeys behind subscripti
 
 # Note:
 - OP Keyboard Spammer isn't affiliated with OP Auto Clicker (though I love OP Auto Clicker!). It's simply named OP because it is genuinely OP.
-- This project originally started on guthib, but it was banned without telling me a reason. fk guthib.
 - AI used.

@@ -8,9 +8,7 @@ OP Keyboard Spammer is a free, open-source, and lightweight macro utility built 
 Unlike bloated commercial macro suites that lock basic hotkeys behind subscriptions, throttle your click speed, or practically charge you per keystroke, OP Keyboard Spammer send a virtual keyboard input without asking for money like a beggar. Combined with a custom borderless interface, instant dark/light mode switching, and an ultra-efficient 100Hz non-blocking hotkey listener, it delivers rock-solid performance while consuming virtually 0.00% CPU in the background.
 
 # 🆘 How to use?
-1. Download newest version of [Python](https://www.python.org/downloads/)
-2. Download my [release](https://github.com/Trevor-2/OP-Keyboard-Spammer/releases)
-3. Run it with python and enjoy ;)
+- Download the newest [release](https://github.com/Trevor-2/OP-Keyboard-Spammer/releases)
 
 # 🏅 Goal:
 - Auto Click your keyboard in any windows
@@ -21,3 +19,8 @@ Unlike bloated commercial macro suites that lock basic hotkeys behind subscripti
 - Free
 - Open source
 - Lightweight
+
+# Note:
+- OP Keyboard Spammer isn't affiliated with OP Auto Clicker (though I love OP Auto Clicker!). It's simply named OP because it is genuinely OP.
+- This project originally started on guthib, but it was banned without telling me a reason. fk guthib.
+- AI used.

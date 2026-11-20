@@ -13,9 +13,11 @@ Unlike bloated commercial macro suites that lock basic hotkeys behind subscripti
 3. Run it with python and enjoy ;)
 
 # 🏅 Goal:
-- no pip install needed
-- Dark/light mode
-- always on top
-- GUI is user-friendly
-- low hardware resource usage ( ram price;< )
-- can run in any OS (im not sure if it can)
+- Auto Click your keyboard in any windows
+- Dark/light mode (for differnet game background)
+- Always-on-top toggle
+- Borderless window
+- Simple to use
+- Free
+- Open source
+- Lightweight

@@ -23,3 +23,4 @@ Unlike bloated commercial macro suites that lock basic hotkeys behind subscripti
 # Note:
 - OP Keyboard Spammer isn't affiliated with OP Auto Clicker (though I love OP Auto Clicker!). It's simply named OP because it is genuinely OP.
 - AI used.
+- OP Keyboard Spammer is also on [SourceForge](https://sourceforge.net/projects/op-keyboard-spammer/)!
